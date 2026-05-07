@@ -46,10 +46,6 @@ next-env.d.ts
 inngest
 # modules
 modules
-# store
-store
-#providers
-provider
 #lib
 lib
 #hooks
